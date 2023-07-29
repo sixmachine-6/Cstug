@@ -76,6 +76,9 @@ thead tr{
   background-color:#16a085;
   color:white;
 }
+th,td{
+ text-align:center;
+}
 tr:hover{
   background-color:#f5f5f5;
   transform:scale(1.02);
